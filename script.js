@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 return ("If a student misses any class due to any medical reason, they can apply for a Medical Leave (ML) form that will give them the attendance for the day(s) they missed.\nTo do so a student must ask their Facult Advisor for an OD/ML form, fill up the details and attack proof in the form of a doctor's note and/or a prescription and submit the form to their FA.\nOnce verified the attendance will be added to the student's final attendance tally.")
             }
         }
-        else if(masg.includes("you gay?")){
+        else if(msg=="you gay?"){
             return ("OMG YES HOW DID YOU KNOW???")
         }
         else {
